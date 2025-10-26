@@ -14,7 +14,7 @@ My research focuses on developing robust scalable frameworks for **data-driven m
 By blending these methodologies, I aim to enhance intelligence and decision-making capabilities in autonomous robots, pushing their performance limits and operational boundaries.
 
 ## 🌱 My Interests:
-I'm captivated by the potential of **autonomous robots and vehicles** to address real-world challenges. My goal is to develop solutions that improve our environment and lifestyle through thoughtful engineering.
+I'm captivated by the potential of **autonomous vehicles, robotics and machine learning** to address real-world challenges. My goal is to develop solutions that improve our environment and lifestyle through thoughtful engineering.
 
 ## 🤝 Collaboration and Contributions:
 I'm always looking forward to collaborating with like-minded individuals and teams to solve challenging problems in robotics and autonomy. Together, we can pool our expertise and create elegant and reliable solutions.
