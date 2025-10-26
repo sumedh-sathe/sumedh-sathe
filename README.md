@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋 Welcome to My GitHub Repository!  👋
 
 <!--
 **sumedh-sathe/sumedh-sathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
