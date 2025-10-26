@@ -3,7 +3,7 @@
 Hi there! I'm **Sumedh Sathe**, a passionate researcher and a Ph.D. candidate at the prestigious **Clemson University's International Center for Automotive Research (ICAR)**, nestled in the vibrant city of Greenville, SC. I'm thrilled to share my journey and research in the cutting-edge realm of **Robotics** and **Applied Artificial Intelligence**. 🚗 :robot:
 
 ## 🚀 About My Research:
-My research focuses on developing robust scalable frameworks for **data-driven modeling, motion planning,** and **control for Ground-based Locomotion**. I'm on a mission to transform theoretical concepts into practical workflows, addressing the challenges modern robotic systems face in unstructured environments.
+My research focuses on developing robust scalable frameworks for **data-driven modeling, motion planning,** and **control for Ground-based Locomotion**. I'm on a mission to transform theoretical concepts into practical workflows, addressing the challenges modern robotic systems face in unstructured uncertain environments via application of state-of-the-art methods in Model Based Control, Machine Learning and High Performance Computing.
 
 🔍 **Key Highlights:**
 - **Hybrid Deep Reinforcement Learning Controllers**: Developing Adaptive Data-Driven Controllers leveraging inferencing strength of self-supervised learning methods along with the safety and theoretical guarantees provided by model-based control.
