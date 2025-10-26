@@ -8,7 +8,7 @@ My research focuses on developing robust scalable frameworks for **data-driven m
 🔍 **Key Highlights:**
 - **Hybrid Deep Reinforcement Learning Controllers**: Developing Adaptive Data-Driven Controllers leveraging inferencing strength of self-supervised learning methods along with the safety and theoretical guarantees provided by model-based control.
 - **Koopman Operator Theory**: Expanding the horizons of explainable data-driven modeling with analytical formulation of Koopman Operators for robotics.
-- **Fault Tolerant Control**: Extending operational capabilities in harsh scenarios while delivering robustness against seen as well as unseen failure modes.
+- **Fault Tolerant Control Systems**: Extending operational capabilities in harsh scenarios while delivering robustness against seen as well as unseen failure modes.
 - **Multi-Modal Sensor Fusion & Estimation**: Designing robust sensing frameworks that exploit multiple modalities and addressing semantic inconsistencies.
 
 By blending these methodologies, I aim to enhance intelligence and decision-making capabilities in autonomous robots, pushing their performance margins and operating envelopes.
