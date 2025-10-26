@@ -11,7 +11,7 @@ My research focuses on developing robust scalable frameworks for **data-driven m
 - **Fault Tolerant Control Systems**: Extending operational capabilities in harsh scenarios while delivering robustness against seen as well as unseen failure modes.
 - **Multi-Modal Sensor Fusion & Estimation**: Designing robust sensing frameworks that exploit multiple modalities and addressing semantic inconsistencies via machine learning enabled estimation.
 
-By blending these methodologies, I aim to enhance intelligence and decision-making capabilities in autonomous robots, pushing their performance limits and operating envelopes.
+By blending these methodologies, I aim to enhance intelligence and decision-making capabilities in autonomous robots, pushing their performance limits and operational boundaries.
 
 ## 🌱 My Interests:
 I'm captivated by the potential of **autonomous robots and vehicles** to address real-world challenges. My goal is to develop solutions that improve our environment and lifestyle through thoughtful engineering.
