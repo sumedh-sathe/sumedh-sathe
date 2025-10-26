@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Repository! 🌟
+# 🌟 Welcome to My GitHub Profile! 🌟
 
 Hi there! I'm **Sumedh Sathe**, a passionate researcher and a Ph.D. candidate at the prestigious **Clemson University's International Center for Automotive Research (ICAR)**, nestled in the vibrant city of Greenville, SC. I'm thrilled to share my journey and research in the cutting-edge realm of **Robotics** and **Applied Artificial Intelligence**. 🚗 :robot:
 
